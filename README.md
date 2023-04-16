@@ -79,6 +79,13 @@ Also you will get a google sheet link, where you have to submit your assignment,
 
 3. How do you feel after completing these challenges? Did reading the official ReactJS documentation make it easier to understand the technology? Share your experiences and learning journey on LinkedIn and Twitter using the hashtag #FrontendWithVishal to inspire others to learn from the official documentation too. 🤝🚀
 
+### Task 3:
+
+1. Did you understand how ReactJS renders components? Take a moment to explain the concepts of **Triggering** a render, **Rendering** the component, and **Committing** to the DOM in a LinkedIn post or Twitter thread with a helpful image. Don't forget to use the hashtag #frontendwithVishal. 
+    
+**NOTE:** Understanding how React components render will help you grasp advanced topics in ReactJS and make debugging your code much easier. So, this task is a must-do! 🤔👨‍💻
+
+
 ## Continue Fundamentals of ReactJS and Build Todo App
 
 - Preview of Todo App 📝
@@ -102,7 +109,7 @@ Also you will get a google sheet link, where you have to submit your assignment,
   </a>
 </div>
 
-### Task 3:
+### Task 4:
 
 1. Add, Delete and Mark as Complete the Task
 2. Filter Active and Completed Task
@@ -112,7 +119,7 @@ Also you will get a google sheet link, where you have to submit your assignment,
 6. Add Both light and dark theme
 7. 🚀 Don't forget to share your learning and assignments on LinkedIn and Twitter using **#FrontendWithVishal** to showcase your skills to potential employers!
 
-### Task 4:
+### Task 5:
 
 1. Let's head over to the official documentation of ReactJS and read the Describing the UI section in its entirety. We covered these topics in the previous video, but developing the habit of reading documentation is essential to becoming a skilled developer. 📖🤓
 
@@ -131,7 +138,7 @@ Also you will get a google sheet link, where you have to submit your assignment,
   </a>
 </div>
 
-### Task:
+### Task 6:
 
 1. Build a time-bound question-answer web app using ReactJS.
 2. Add a timer that stops when the time runs out and displays the user's score.
