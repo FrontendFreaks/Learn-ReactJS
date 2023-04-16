@@ -10,11 +10,11 @@
 
 👨‍💼 Plus, our top performer will get a chance to have a mock interview and a recommendation from me.
 
-<p align="center">
+<div align="center">
   <a href="https://www.youtube.com/watch?v=F6WT-EwTBt4">
     <img src="https://img.youtube.com/vi/F6WT-EwTBt4/0.jpg" alt="Everything about Frontend Developer Mentorship" />
   </a>
-</p>
+</div>
 
 
 ## **NOTE:**
@@ -49,19 +49,35 @@ Also you will get a google sheet link, where you have to submit your assignment,
 
 🚀 By the end of this video, you'll have a solid understanding of the fundamentals of ReactJS and be ready to start building your own React applications.
 
-<p align="center">
+<div align="center">
   <a href="https://www.youtube.com/watch?v=ddCoFFqLo-g">
     <img src="https://img.youtube.com/vi/ddCoFFqLo-g/0.jpg" alt="Learn Fundamentals of ReactJS and Build Counter App" />
   </a>
-</p>
+</div>
 
-### Task:
+### Task 1:
 
 1. Add a reset button that resets the counter back to zero
 2. Add a feature that allows the user to increment/decrement the counter by a custom value (e.g., 5 or 10)
 3. Add a feature that allows the user to change the color of the counter based on its value (e.g., green for positive values, red for negative values).
 4. Design your first app, and share the code sandbox link in google sheet for tracking your progress.
 5. 🚀 Don't forget to share your learning and assignments on LinkedIn and Twitter using **#FrontendWithVishal** to showcase your skills to potential employers!
+
+### Task 2:
+
+1. Let's head over to the official documentation of ReactJS and read the Describing the UI section in its entirety. We covered these topics in the previous video, but developing the habit of reading documentation is essential to becoming a skilled developer. 📖🤓
+
+<div align="center">
+    <img src="./Assets/describing-the-ui.png" alt="Describing The UI Section of React Documentation" />
+</div> 
+
+2. At the end of each article, you'll find a few challenges to tackle. These challenges will help solidify your understanding of the concepts and make it easier to remember the code syntax. There are a total of 22 challenges spread across 8 articles. 🧐💻
+
+<div align="center">
+    <img src="./Assets/react-official-challenge.png" alt="React Official Challenge" />
+</div> 
+
+3. How do you feel after completing these challenges? Did reading the official ReactJS documentation make it easier to understand the technology? Share your experiences and learning journey on LinkedIn and Twitter using the hashtag #FrontendWithVishal to inspire others to learn from the official documentation too. 🤝🚀
 
 ## Continue Fundamentals of ReactJS and Build Todo App
 
@@ -80,13 +96,13 @@ Also you will get a google sheet link, where you have to submit your assignment,
 - Organizing all Components in the Components Folder 📁
 - How to Submit the Assignment? 📩
 
-<p align="center">
+<div align="center">
   <a href="https://www.youtube.com/watch?v=lLpdRMaDVQc">
     <img src="https://img.youtube.com/vi/lLpdRMaDVQc/0.jpg" alt="Fundamentals of ReactJS and Build Todo App" />
   </a>
-</p>
+</div>
 
-### Task:
+### Task 3:
 
 1. Add, Delete and Mark as Complete the Task
 2. Filter Active and Completed Task
@@ -96,13 +112,24 @@ Also you will get a google sheet link, where you have to submit your assignment,
 6. Add Both light and dark theme
 7. 🚀 Don't forget to share your learning and assignments on LinkedIn and Twitter using **#FrontendWithVishal** to showcase your skills to potential employers!
 
+### Task 4:
+
+1. Let's head over to the official documentation of ReactJS and read the Describing the UI section in its entirety. We covered these topics in the previous video, but developing the habit of reading documentation is essential to becoming a skilled developer. 📖🤓
+
+<div align="center">
+    <img src="./Assets/add-interactivity.png" alt="Add Interactivity Section of React Documentation" />
+</div>
+    
+2. At the end of each article, you'll find a few challenges to tackle. These challenges will help solidify your understanding of the concepts and make it easier to remember the code syntax. There are a total of 22 challenges spread across 8 articles. 🧐💻
+3. How do you feel after completing these challenges? Did reading the official ReactJS documentation make it easier to understand the technology? Share your experiences and learning journey on LinkedIn and Twitter using the hashtag #FrontendWithVishal to inspire others to learn from the official documentation too. 🤝🚀
+
 ## Assignment 3: Build a Time Bound Question / Answer Web App
 
-<p align="center">
+<div align="center">
   <a href="https://www.youtube.com/watch?v=B4vhIfcm5TY">
     <img src="https://img.youtube.com/vi/B4vhIfcm5TY/0.jpg" alt="Build a Time Bound Question / Answer Web App" />
   </a>
-</p>
+</div>
 
 ### Task:
 
