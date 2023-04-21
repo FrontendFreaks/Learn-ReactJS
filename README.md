@@ -65,26 +65,19 @@ Also you will get a google sheet link, where you have to submit your assignment,
 
 ### Task 2:
 
-1. Let's head over to the official documentation of ReactJS and read the Describing the UI section in its entirety. We covered these topics in the previous video, but developing the habit of reading documentation is essential to becoming a skilled developer. 📖🤓
+1. Let's head over to the official documentation of ReactJS and read the Describing the UI section in its entirety. We covered these topics in the previous video, but developing the habit of reading documentation is essential to becoming a skilled developer. 📖🤓 [Start from Your First Component](https://react.dev/learn/your-first-component)
 
 <div align="center">
     <img src="./Assets/describing-the-ui.png" alt="Describing The UI Section of React Documentation" />
 </div> 
 
-2. At the end of each article, you'll find a few challenges to tackle. These challenges will help solidify your understanding of the concepts and make it easier to remember the code syntax. There are a total of 22 challenges spread across 8 articles. 🧐💻
+2. At the end of each article, you'll find a few challenges to tackle. These challenges will help solidify your understanding of the concepts and make it easier to remember the code syntax. There are a total of 22 challenges spread across 8 articles (start From [Your First Component](https://react.dev/learn/your-first-component) to [Keeping Components Pure](https://react.dev/learn/keeping-components-pure) ). 🧐💻
 
 <div align="center">
     <img src="./Assets/react-official-challenge.png" alt="React Official Challenge" />
 </div> 
 
 3. How do you feel after completing these challenges? Did reading the official ReactJS documentation make it easier to understand the technology? Share your experiences and learning journey on LinkedIn and Twitter using the hashtag #FrontendWithVishal to inspire others to learn from the official documentation too. 🤝🚀
-
-### Task 3:
-
-1. Did you understand how ReactJS renders components? Take a moment to explain the concepts of **Triggering** a render, **Rendering** the component, and **Committing** to the DOM in a LinkedIn post or Twitter thread with a helpful image. Don't forget to use the hashtag #frontendwithVishal. 
-    
-**NOTE:** Understanding how React components render will help you grasp advanced topics in ReactJS and make debugging your code much easier. So, this task is a must-do! 🤔👨‍💻
-
 
 ## Continue Fundamentals of ReactJS and Build Todo App
 
@@ -109,7 +102,7 @@ Also you will get a google sheet link, where you have to submit your assignment,
   </a>
 </div>
 
-### Task 4:
+### Task 3:
 
 1. Add, Delete and Mark as Complete the Task
 2. Filter Active and Completed Task
@@ -119,16 +112,23 @@ Also you will get a google sheet link, where you have to submit your assignment,
 6. Add Both light and dark theme
 7. 🚀 Don't forget to share your learning and assignments on LinkedIn and Twitter using **#FrontendWithVishal** to showcase your skills to potential employers!
 
-### Task 5:
+### Task 4:
 
-1. Let's head over to the official documentation of ReactJS and read the Describing the UI section in its entirety. We covered these topics in the previous video, but developing the habit of reading documentation is essential to becoming a skilled developer. 📖🤓
+1. Let's head over to the official documentation of ReactJS and read the Describing the UI section in its entirety. We covered these topics in the previous video, but developing the habit of reading documentation is essential to becoming a skilled developer. 📖🤓 [Start From Responding to Events](https://react.dev/learn/responding-to-events)
 
 <div align="center">
     <img src="./Assets/add-interactivity.png" alt="Add Interactivity Section of React Documentation" />
 </div>
     
-2. At the end of each article, you'll find a few challenges to tackle. These challenges will help solidify your understanding of the concepts and make it easier to remember the code syntax. There are a total of 22 challenges spread across 8 articles. 🧐💻
+2. At the end of each article, you'll find a few challenges to tackle. These challenges will help solidify your understanding of the concepts and make it easier to remember the code syntax. There are a total of 22 challenges spread across 8 articles(Start From  [Responding to Events](https://react.dev/learn/responding-to-events) to [Updating Arrays in State](https://react.dev/learn/updating-arrays-in-state) ). 🧐💻
+
 3. How do you feel after completing these challenges? Did reading the official ReactJS documentation make it easier to understand the technology? Share your experiences and learning journey on LinkedIn and Twitter using the hashtag #FrontendWithVishal to inspire others to learn from the official documentation too. 🤝🚀
+
+### Task 5:
+
+1. Did you understand how ReactJS renders components? Take a moment to explain the concepts of **Triggering** a render, **Rendering** the component, and **Committing** to the DOM in a LinkedIn post or Twitter thread with a helpful image. Don't forget to use the hashtag #frontendwithVishal. [Learn How React Component Trigger Rendering and Render the Component](https://react.dev/learn/render-and-commit)
+    
+**NOTE:** Understanding how React components render will help you grasp advanced topics in ReactJS and make debugging your code much easier. So, this task is a must-do! 🤔👨‍💻
 
 ## Assignment 3: Build a Time Bound Question / Answer Web App
 
