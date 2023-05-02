@@ -34,6 +34,12 @@ Also you will get a google sheet link, where you have to submit your assignment,
 
 ## Learn Fundamentals of ReactJS and Build Counter App
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=ddCoFFqLo-g">
+    <img src="https://img.youtube.com/vi/ddCoFFqLo-g/0.jpg" alt="Learn Fundamentals of ReactJS and Build Counter App" />
+  </a>
+</div>
+
 🎥 In this video, we cover the fundamental concepts of ReactJS, including:
 
 - Components 🧩: the building blocks of a React application
@@ -48,12 +54,6 @@ Also you will get a google sheet link, where you have to submit your assignment,
 - Simple Task 🤏: a hands-on exercise to reinforce your learning
 
 🚀 By the end of this video, you'll have a solid understanding of the fundamentals of ReactJS and be ready to start building your own React applications.
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=ddCoFFqLo-g">
-    <img src="https://img.youtube.com/vi/ddCoFFqLo-g/0.jpg" alt="Learn Fundamentals of ReactJS and Build Counter App" />
-  </a>
-</div>
 
 ### Task 1:
 
@@ -81,6 +81,12 @@ Also you will get a google sheet link, where you have to submit your assignment,
 
 ## Continue Fundamentals of ReactJS and Build Todo App
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=lLpdRMaDVQc">
+    <img src="https://img.youtube.com/vi/lLpdRMaDVQc/0.jpg" alt="Fundamentals of ReactJS and Build Todo App" />
+  </a>
+</div>
+
 - Preview of Todo App 📝
 - Setting up the Coding Environment 💻
 - List Rendering 📋
@@ -96,11 +102,6 @@ Also you will get a google sheet link, where you have to submit your assignment,
 - Organizing all Components in the Components Folder 📁
 - How to Submit the Assignment? 📩
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=lLpdRMaDVQc">
-    <img src="https://img.youtube.com/vi/lLpdRMaDVQc/0.jpg" alt="Fundamentals of ReactJS and Build Todo App" />
-  </a>
-</div>
 
 ### Task 3:
 
@@ -148,30 +149,30 @@ Also you will get a google sheet link, where you have to submit your assignment,
 
 ## Solution of Quiz App | Crash Course of React Router
 
-🎥 In this video, we will build Quiz App(which is an assignment given by a startup), also we will learn about React Router in details:
-🧩 Quiz App Project Overview
-🔧 Create New Sandbox and Project File Structures
-📝 Task 1: Create Three Routes
-🔍 Create Not Found Page and Route, Redirect Not Found Page to Home Page
-🚪 useNavigate React Hook
-👋 Task 2: Create Welcome Page
-❓ Task 3: Create Quiz Page and Question Component
-⏮️⏭️ Task 4: Create Back & Next Question Button, Disabled Back & Next Button
-🔍 Create Submit Button, Better way of Creating Submit Button
-🧮 Task 5: Calculate Score
-🔗 Task 6: Navigate to Score Page, useLocation React Hook
-📝 Task 7: Show Submitted Answer on Score Page
-🔁 Task 8: Create Start Again Quiz Button
-⏱️ Task 9: Create a Timer
-🔍 Task 10: Create Review Answer Component
-🧩 Overview of Project and Conclusion
-📝 Assignment
-
 <div align="center">
   <a href="https://www.youtube.com/watch?v=OOnavajXOAE">
     <img src="https://img.youtube.com/vi/OOnavajXOAE/0.jpg" alt="Build a Time Bound Question / Answer Web App" />
   </a>
 </div>
+
+- 🎥 In this video, we will build Quiz App(which is an assignment given by a startup), also we will learn about React Router in details:
+- 🧩 Quiz App Project Overview
+- 🔧 Create New Sandbox and Project File Structures
+- 📝 Task 1: Create Three Routes
+- 🔍 Create Not Found Page and Route, Redirect Not Found Page to Home Page
+- 🚪 useNavigate React Hook
+- 👋 Task 2: Create Welcome Page
+- ❓ Task 3: Create Quiz Page and Question Component
+- ⏮️⏭️ Task 4: Create Back & Next Question Button, Disabled Back & Next Button
+- 🔍 Create Submit Button, Better way of Creating Submit Button
+- 🧮 Task 5: Calculate Score
+- 🔗 Task 6: Navigate to Score Page, useLocation React Hook
+- 📝 Task 7: Show Submitted Answer on Score Page
+- 🔁 Task 8: Create Start Again Quiz Button
+- ⏱️ Task 9: Create a Timer
+- 🔍 Task 10: Create Review Answer Component
+- 🧩 Overview of Project and Conclusion
+- 📝 Assignment
 
 ### Note:
 
