@@ -130,7 +130,7 @@ Also you will get a google sheet link, where you have to submit your assignment,
     
 **NOTE:** Understanding how React components render will help you grasp advanced topics in ReactJS and make debugging your code much easier. So, this task is a must-do! 🤔👨‍💻
 
-## Assignment 3: Build a Time Bound Question / Answer Web App
+## Assignment 3: Build a Quiz App
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=B4vhIfcm5TY">
@@ -145,6 +145,33 @@ Also you will get a google sheet link, where you have to submit your assignment,
 3. Include a review answer section where users can go back and check their answers.
 4. Ensure the web app has an aesthetically pleasing design.
 5. 🚀 Don't forget to share your learning and assignments on LinkedIn and Twitter using **#FrontendWithVishal** to showcase your skills to potential employers!
+
+## Solution of Quiz App | Crash Course of React Router
+
+🎥 In this video, we will build Quiz App(which is an assignment given by a startup), also we will learn about React Router in details:
+🧩 Quiz App Project Overview
+🔧 Create New Sandbox and Project File Structures
+📝 Task 1: Create Three Routes
+🔍 Create Not Found Page and Route, Redirect Not Found Page to Home Page
+🚪 useNavigate React Hook
+👋 Task 2: Create Welcome Page
+❓ Task 3: Create Quiz Page and Question Component
+⏮️⏭️ Task 4: Create Back & Next Question Button, Disabled Back & Next Button
+🔍 Create Submit Button, Better way of Creating Submit Button
+🧮 Task 5: Calculate Score
+🔗 Task 6: Navigate to Score Page, useLocation React Hook
+📝 Task 7: Show Submitted Answer on Score Page
+🔁 Task 8: Create Start Again Quiz Button
+⏱️ Task 9: Create a Timer
+🔍 Task 10: Create Review Answer Component
+🧩 Overview of Project and Conclusion
+📝 Assignment
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=OOnavajXOAE">
+    <img src="https://img.youtube.com/vi/OOnavajXOAE/0.jpg" alt="Build a Time Bound Question / Answer Web App" />
+  </a>
+</div>
 
 ### Note:
 
